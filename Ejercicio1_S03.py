@@ -57,4 +57,7 @@ while True:
         logging.warning("El valor introducido no es correcto")
 
 logger_1.info("FIN DEL PROGRAMA")
+logger_1.info("FIN DEL PROGRAMA1 PRUEBA1)
+logger_1.info("FIN DEL PROGRAMA2 PRUEBA2)
+
 
